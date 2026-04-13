@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# AI-Trader: 100% Fully-Automated Agent-Native Trading
+# AI-Trader 玄衡: 100% Fully-Automated Crypto Agent-Native Trading
 
 <a href="https://trendshift.io/repositories/15607" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15607" alt="HKUDS%2FAI-Trader | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
